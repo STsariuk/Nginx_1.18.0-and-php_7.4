@@ -1,4 +1,4 @@
-## Nginx_1.18.0-and-Php_7.4-fpm
+## Nginx_1.18.0 & Php & Php_7.4-fpm
 
 #### Step 1 – Installing Nginx-1.18.0
 ```
@@ -48,7 +48,7 @@ http://your_server_ip
 
 ![nginx-image](https://assets.digitalocean.com/articles/nginx_1604/default_page.png)
 
-#### Step 4 - Install Php-7.4
+#### Step 4 - Install Php & Php-7.4-fpm
 
 ```
 $ sudo apt-get update
