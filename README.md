@@ -1,4 +1,4 @@
-## Nginx_1.18.0-and-Php_7.4
+## Nginx_1.18.0-and-Php_7.4-fpm
 
 #### Step 1 – Installing Nginx-1.18.0
 ```
